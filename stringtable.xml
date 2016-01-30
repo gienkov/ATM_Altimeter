@@ -4,30 +4,37 @@
         <Key ID="STR_Altimeter_Name">
             <English>Altimeter</English>
             <French>Altimètre</French>
+            <Polish>Wysokościomierz</Polish>
         </Key>
         <Key ID="STR_Altimeter_Description">
             <English>The Military altimeter give you a bearing, The ASL(Altitude Sea Level) and the Hour.</English>
             <French>L'altimètre militaire vous donne un azimut, votre altitude par rapport au niveau de la mer et l'heure.</French>
+            <Polish>Wysokościomierz wojskowy podaje aktualny kierunek, wysokość nad poziomem morza (ASL) oraz godzinę</Polish>
         </Key>
         <Key ID="STR_Altimeter_KeyDisplay">
             <English>Show/Hide Altimeter</English>
             <French>Afficher/Cacher Altimètre</French>
+            <Polish>Pokaż/ukryj wysokościomierz</Polish>
         </Key>
         <Key ID="STR_Altimeter_KeyMove">
             <English>Move Altimeter</English>
             <French>Déplacer l'altimètre</French>
+            <Polish>Przemieść wysokościomierz</Polish>
         </Key>
         <Key ID="STR_Altimeter_MoveText">
             <English>Move Me. Press Esc to cancel.</English>
             <French>Me déplacer. Appuyer sur Esc pour annuler.</French>
+            <Polish>Przenieś mnie. Naciśnij ESC aby anulować.</Polish>
         </Key>
         <Key ID="STR_Altimeter_MoveButtonText">
             <English>Validate the position.</English>
             <French>Valider la position.</French>
+            <Polish>Potwierdź pozycję.</Polish>
         </Key>
         <Key ID="STR_Altimeter_InvalidPos">
             <English>Invalid position.</English>
             <French>Position non valide.</French>
+            <Polish>Nieprawidłowa pozycja.</Polish>
         </Key>
     </Package>
 </Project>
